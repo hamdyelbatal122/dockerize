@@ -1,0 +1,21 @@
+{
+  "name": "dockerize",
+  "version": "1.0.0",
+  "description": "Docker end to end.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.10.6"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "http://github.com/dlorenc/dockerize.git"
+  }
+}
