@@ -9,4 +9,3 @@ RUN npm install
 # Add the application
 ADD . /data/
 
-CMD ["npm", "start"]
