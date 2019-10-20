@@ -8,3 +8,4 @@ sudo apt-get install -y jenkins
 # Add jenkins to the docker group
 sudo gpasswd -a jenkins docker
 sudo service jenkins restart
+
