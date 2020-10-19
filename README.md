@@ -16,7 +16,7 @@ Deployment code is in playbooks/
 $ cd app  
 $ npm install  
 $ npm start  
-Example app listening at http://0.0.0.0:80
+Example app listening at http://0.0.0.0:8080
 
 ### CI
 1. Create a jenkins instance using scripts/create-jenkins-instance.sh  
