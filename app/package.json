@@ -13,9 +13,12 @@
   },
   "devDependencies": {
     "grunt": "^0.4.5"
-  },
+  }, 
   "repository" : {
     "type" : "git",
     "url" : "http://github.com/dlorenc/dockerize.git"
   }
 }
+
+  
+ 
