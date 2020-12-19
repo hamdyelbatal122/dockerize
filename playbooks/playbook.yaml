@@ -1,5 +1,6 @@
 ---
 - name: Copy New Image
+  hosts: webservers
   gather_facts: False 
   remote_user: dlorenc
   tasks:
