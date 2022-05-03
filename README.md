@@ -1,6 +1,5 @@
 # dockerize
 
-
 ## Dockerize Your Team
 
 This repo contains a small nodejs application, scripts to provision some GCE instances,
@@ -31,3 +30,4 @@ Example app listening at http://0.0.0.0:8080
 1. $ cd playbooks  
 2. $ edit hosts to contain your IP addresses
 3. $ ansible-playbook playbook.yaml -i hosts --extra-vars "version=BUILD_NUMBER" --private-key=~/.ssh/google_compute_engine
+
