@@ -1,6 +1,5 @@
 # dockerize
 
-
 ## Dockerize Your Team
 
 This repo contains a small nodejs application, scripts to provision some GCE instances,
