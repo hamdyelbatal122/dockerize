@@ -10,7 +10,7 @@ App code is in app/
 Scripts are in scripts/  
 Deployment code is in playbooks/  
  
-## Example Usage 
+## Example Usage  
 
 ### Development  
 $ cd app   
