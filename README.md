@@ -1,4 +1,4 @@
-# dockerize 
+# dockerize  
 
 ## Dockerize Your Team
 
