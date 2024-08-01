@@ -11,7 +11,7 @@ Deployment code is in playbooks/
    
 ## Example Usage    
 
-### Development   
+### Development     
 $ cd app     
 $ npm install    
 $ npm start  
