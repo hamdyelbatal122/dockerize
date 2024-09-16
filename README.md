@@ -12,7 +12,7 @@ Deployment code is in playbooks/
 ## Example Usage            
           
 ### Develoهpment                 
-$ cd app       
+$ cd app         
 $ npm install      
 $ npm start     
 Example app listening at http://0.0.0.0:8080
