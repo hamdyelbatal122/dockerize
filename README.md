@@ -16,7 +16,7 @@ $ cd app
 $ npm install      
 $ npm start     
 Example app listening at http://0.0.0.0:8080
-
+  
 ### CI
 1. Create a jenkins instance using scripts/create-jenkins-instance.sh  
 2. Log into your jenkins instance, and install the github plugin.  
