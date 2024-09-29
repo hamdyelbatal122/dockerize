@@ -10,7 +10,7 @@ Scripts are in scripts/
 Deployment code is in playbooks/   
    
 ## Example Usage            
-          
+            
 ### Develoهpment        
 $ cd app          
 $ npm install      
